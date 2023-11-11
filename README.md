@@ -1,2 +1,2 @@
 # my-first-repo
-Creating repo for git fundamentals Explore's lessons
+Creating repo for git fundamentals Explore AI Academy lessons
